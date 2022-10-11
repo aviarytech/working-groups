@@ -1,10 +1,12 @@
-# Working Groups
+# [Working Groups](https://hackmd.io/ay_lNN95Qv2E1Hyj2apiaQ)
 
 ## W3C
 
 ### [VCWG](https://www.w3.org/2017/vc/WG/)
 
 ## W3C CCG
+
+### [VC-EDU](https://w3c-ccg.github.io/vc-ed/)
 
 ### [VC-API](https://w3c-ccg.github.io/vc-api/)
 
