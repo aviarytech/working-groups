@@ -1,5 +1,7 @@
 [Repo](https://github.com/decentralized-identity/trust-establishment)
+
 [Agenda](https://hackmd.io/a50I9MlkRVOQJOYgf7b3hA?both)
+
 [Specification](https://identity.foundation/trust-establishment/)
 
 # 10-10-22
