@@ -24,3 +24,7 @@
 ### [Applied Crypto](https://identity.foundation/working-groups/crypto.html)
 
 * [VC Revocation](./revocation)
+
+## [Open Wallet Foundation](https://github.com/openwallet-foundation)
+
+### [Architecture Task Force](https://github.com/openwallet-foundation/architecture-task-force)
