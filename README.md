@@ -28,3 +28,5 @@
 ## [Open Wallet Foundation](https://github.com/openwallet-foundation)
 
 ### [Architecture Task Force](https://github.com/openwallet-foundation/architecture-task-force)
+
+## [JFF](https://github.com/aviarytech/jff-didcomm-issuance)
