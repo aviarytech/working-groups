@@ -6,9 +6,9 @@
 
 ## W3C CCG
 
-### [VC-EDU](https://w3c-ccg.github.io/vc-ed/)
+### [VC-EDU](./vc-edu)
 
-### [VC-API](https://w3c-ccg.github.io/vc-api/)
+### [VC-API](./vc-api)
 
 ## DIF
 
