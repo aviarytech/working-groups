@@ -1,5 +1,7 @@
 # VC EDU Working Group
 
+[Home](https://w3c-ccg.github.io/vc-ed/)
+
 ## Meetings
 
 ### 10-24-22
