@@ -30,3 +30,7 @@
 ### [Architecture Task Force](https://github.com/openwallet-foundation/architecture-task-force)
 
 ## [JFF](https://github.com/aviarytech/jff-didcomm-issuance)
+
+## CIO Strategy Council
+
+### [CAS Digital Credentials](./ciosc)
