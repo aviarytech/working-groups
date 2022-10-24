@@ -1,5 +1,5 @@
 # VC API Working Group
-[Specification](https://w3c-ccg.github.io/vc-api/)
+[Home](https://w3c-ccg.github.io/vc-api/)
 
 ## Meetings attended
 
